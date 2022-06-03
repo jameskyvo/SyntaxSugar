@@ -1,0 +1,8 @@
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\bin\Debug\SyntaxSugar.exe.config
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\bin\Debug\SyntaxSugar.exe
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\bin\Debug\SyntaxSugar.pdb
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\obj\Debug\SyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\obj\Debug\SyntaxSugar.csproj.SuggestedBindingRedirects.cache
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\obj\Debug\SyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\obj\Debug\SyntaxSugar.exe
+C:\Users\plant\repos\SyntaxSugar\SyntaxSugar\obj\Debug\SyntaxSugar.pdb
